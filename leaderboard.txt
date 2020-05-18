@@ -1,0 +1,11 @@
+ganesh 70 7
+yay 40 4
+sin 20 2
+vasavi 20 2
+sindhu 10 1
+vanaaja 10 1
+tej 10 1
+susi 10 1
+vikram 10 1
+rani 0 0
+venky 0 0
